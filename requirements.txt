@@ -1,0 +1,9 @@
+numpy==2.0.2
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+scipy==1.16.2
+statsmodels==0.14.5
+bioinfokit==2.1.4
+pingouin==0.5.5
+jupyterlab
