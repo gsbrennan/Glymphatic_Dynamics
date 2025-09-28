@@ -1,0 +1,35 @@
+# macOS system files
+.DS_Store
+
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+*.env
+
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.ji
+Manifest.toml.bak
+
+# VSCode / IDE configs
+.vscode/
+.idea/
+
+# Logs
+*.log
