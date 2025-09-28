@@ -1,4 +1,7 @@
 # GlymphaticDynamics
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17220461.svg)](https://doi.org/10.5281/zenodo.17220461)
+
 Pipeline for ROI-specific glymphatic clearance mapping and modeling proteinopathy cascades in the human brain
 
 
@@ -93,3 +96,4 @@ GlymphaticDynamics/
 ├── requirements.txt                     # Pinned dependencies (reproducible)
 ├── requirements_unpinned.txt            # Same packages, flexible versions
 └── README.md                            # Project documentation
+
